@@ -21,7 +21,7 @@
 
 ---
 
-### 📊 Most Used Languages
+### 📊 Most Used Technologies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caionovaes2207&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
