@@ -14,7 +14,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=caionovaes2207&show_icons=true&theme=shadow_red" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caionovaes2207&hide_progress=true&theme=shadow_red" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caionovaes2207&layout=compact&theme=shadow_red" />
     </td>
   </tr>
 </table>
