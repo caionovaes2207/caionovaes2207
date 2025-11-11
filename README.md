@@ -31,6 +31,12 @@
 
 ---
 
+### 📁 Featured Repository
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=caionovaes2207&repo=portfolio2025DS-AMS&theme=midnight-purple" />
+
+---
+
 ### 🚀 Always Improving
 
 > "In pursuit of becoming better and better at what I love." 💪
