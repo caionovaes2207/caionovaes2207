@@ -30,10 +30,6 @@
 </div>
 
 ---
-### Repositorio em destaque
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=caionovaes2207&repo=portifolio2025DS-AMS&theme=shadow_red"
----
 
 ### 🚀 Always Improving
 
