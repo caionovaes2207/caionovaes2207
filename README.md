@@ -29,11 +29,6 @@
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
----
-
-### 📁 Featured Repository
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=caionovaes2207&repo=https://github.com/caionovaes2207/portfolio2025DS-AMS&theme=midnight-purple" />
 
 ---
 
