@@ -31,12 +31,6 @@
 
 ---
 
-### 📊 Most Used Technologies
-
-
-
----
-
 ### 🚀 Always Improving
 
 > "In pursuit of becoming better and better at what I love." 💪
