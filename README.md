@@ -33,7 +33,7 @@
 
 ### 📁 Featured Repository
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=caionovaes2207&repo=portfolio2025DS-AMS&theme=midnight-purple" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=caionovaes2207&repo=https://github.com/caionovaes2207/portfolio2025DS-AMS&theme=midnight-purple" />
 
 ---
 
