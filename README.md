@@ -7,7 +7,7 @@
 
 ### ⚙️ GitHub Stats
 
-![Caio Novaes GitHub Stats](https://github-readme-stats.vercel.app/api?username=caionovaes2207&show_icons=true&theme=radical)
+![Caio Novaes GitHub Stats](https://github-readme-stats.vercel.app/api?username=caionovaes2207&show_icons=true&theme=shadow_red)
 
 ---
 
