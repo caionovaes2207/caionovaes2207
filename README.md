@@ -1,6 +1,6 @@
-## 👋 Hello, I'm Caio Novaes
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3A0066&width=650&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Caio+Novaes;Sou+estudante+da+ETEC+Zona+Leste;Desenvolvedor+em+evolu%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-🎓 I'm a student at **ETEC Zona Leste**, currently studying **Systems Development**.  
+ 
 💡 I always strive to improve in various areas — especially those I find challenging — to achieve a **prosperous and meaningful future**.
 
 ---
