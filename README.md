@@ -25,6 +25,7 @@
     </td>
   </tr>
 </table>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caionovaes2207&theme=midnight_purple" />
 
 ---
 
