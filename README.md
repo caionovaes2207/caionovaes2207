@@ -18,10 +18,10 @@
 <table>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caiovovaes2207&theme=default" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caionovaes2207&theme=midnight_purple" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caionovaes2207&layout=compact&theme=midnight-purple" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caionovaes2207&theme=midnight_purple" />
     </td>
   </tr>
 </table>
