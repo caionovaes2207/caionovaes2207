@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=caionovaes2207&show_icons=true&theme=midnight-purple" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caiovovaes2207&theme=midnight-purple" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caionovaes2207&layout=compact&theme=midnight-purple" />
