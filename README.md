@@ -26,6 +26,7 @@
   </tr>
 </table>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caionovaes2207&theme=midnight_purple" />
+ <img height="180" src="https://streak-stats.demolab.com?user=caionovaes2207&theme=midnight_purple" />
 
 ---
 
